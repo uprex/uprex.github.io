@@ -6,7 +6,7 @@ const experiences = [
     title: "Ingénieur d'études",
     company: "Fives Intralogistics SAS",
     period: "Septembre 2023 – Présent",
-    details: "Etude, développement, mise en service (déplacements internationaux) et maintenance d'applications en C# .NET dans un environnement logistique. \n Developpement d'outils pour la gestion d'entrepôts automatisés WCS et la communication avec les outils clients WMS (API REST) ou des équipements physiques (PLC, Arche de lecture, Autostore, Trieurs, Imprimante, Balance).",
+    details: "Gestion de projet, etude, développement, mise en service (déplacements internationaux) et maintenance d'applications en C# .NET dans un environnement logistique et/ou industriel. \n Developpement d'outils pour la gestion d'entrepôts automatisés WCS et la communication avec les outils clients WMS (API REST) ou des équipements physiques (PLC, Arche de lecture, Autostore, Trieurs, Imprimante, Balance). \n Gestion d’une organisation Azure DevOps et des projets sous-jacents",
     moreDetails: "Intégration des logiciels dans une optique CI/CD via des pipelines Azure DevOps \n Outils : C# .NET, Azure DevOps, Docker, SQL Server, Redis, RabbitMQ, IIS, Blazor, Git.",
     logo: "images/fives.png"
   },
